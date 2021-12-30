@@ -1,4 +1,4 @@
-## To-do List & Blog Post Assignment
+## To-Do List & Blog Post Assignment
 ### Assignment Given By: Dr. Gulsher Laghari
 
 ### *Implementations*
